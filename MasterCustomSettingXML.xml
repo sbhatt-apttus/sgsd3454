@@ -12,7 +12,7 @@
     </soapenv:Header>
     <soapenv:Body>
         <Create>
-            <sObjects xsi:type="Apttus_Billing__BillingSystemProperties__c11111111111">
+            <sObjects xsi:type="Apttus_Billing__BillingSystemProperties__c1111111111122222222222">
                 <Name>System Properties</Name>
                 <Apttus_Billing__AllowBillingPreferenceOverride__c>true</Apttus_Billing__AllowBillingPreferenceOverride__c>
                 <Apttus_Billing__CreateRedundantBillingSchedules__c>true</Apttus_Billing__CreateRedundantBillingSchedules__c>
